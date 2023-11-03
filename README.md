@@ -1,4 +1,6 @@
 
+![WG-Scripts](https://i.imgur.com/XRHOk90.png)
+
 Welcome To WeqzGaming's Scripts known as WG-Scripts.
 
 There will be more scripts added in the future to make this a nice big script pack.
