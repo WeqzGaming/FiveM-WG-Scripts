@@ -46,3 +46,8 @@ ensure NativeUI
 ensure wg-menu
 
 ```
+
+## How To Use
+- Use the "U" key to enter the menu
+- You can change the key in the menu.lua file at line 87 and just change the 303 number key to a different one-off this website here: https://docs.fivem.net/docs/game-references/controls/
+- Most things to change about the menu are inside the menu.lua file
