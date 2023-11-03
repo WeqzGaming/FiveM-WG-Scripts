@@ -27,12 +27,14 @@ An FiveM menu used for your server that needs a menu to spawn guns and heal plus
 
 
 ## Screenshots
-![Main Menu](https://cdn.discordapp.com/attachments/934470871333105674/1014215694394589294/unknown.png)
+![Main Menu](https://i.imgur.com/jEgkCIy.png)
 
 
 ## Features
-- Ability to spawn guns
-- Ability to revive/heal
+- Ability to spawn guns -NEEDS FIXING
+- Ability to heal
+- Ability to spawn cars and change seats easily
+- Ability to use the menu with your mouse just click to stop spinning arround when in the menu
 
 
 ## Installation
@@ -41,6 +43,6 @@ An FiveM menu used for your server that needs a menu to spawn guns and heal plus
 - Add the following code to your server.cfg/resouces.cfg
 ```
 ensure NativeUI
-ensure WG-Menu
+ensure wg-menu
 
 ```
